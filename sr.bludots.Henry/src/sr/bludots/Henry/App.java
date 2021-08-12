@@ -6,7 +6,7 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		String [] arr = new String [10];
+		String [] arr = new String [1000000];
 		Assignment1 class1 = new Assignment1();
         class1.sameName(arr, "Juscelino");
         class1.changeRecords("Lino", "Bert", "Ernie");
